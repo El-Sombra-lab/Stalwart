@@ -94,7 +94,7 @@
   .fr-view pre {
     white-space: pre-wrap;
     word-wrap: break-word;
-    overflow: visible; }
+    overflow: hidden; }
 /*  .fr-view[dir="rtl"] blockquote {
     border-left: none;
     border-right: solid 2px #5E35B1;
